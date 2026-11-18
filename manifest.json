@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "metadata": {
+    "appmode": "nodejs",
+    "entrypoint": "server.js"
+  },
+  "node": {
+    "version": "24.20.0",
+    "package_manager": {
+      "name": "npm",
+      "version": "11.16.0",
+      "package_file": "package.json"
+    }
+  },
+  "files": {
+    ".gitignore": {
+      "checksum": "c1f3d571690cb84ed2459416a2d7148a"
+    },
+    "package-lock.json": {
+      "checksum": "66d0c79c08df8f03819e146fb40bc095"
+    },
+    "package.json": {
+      "checksum": "97e893fa47d958d3b79e869b012e23f3"
+    },
+    "server.js": {
+      "checksum": "8ea456dc06c3a5d2443b49a9946e50fc"
+    }
+  },
+  "locale": "English_United States"
+}

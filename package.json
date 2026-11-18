@@ -1,0 +1,13 @@
+{
+  "name": "hello-nodejs",
+  "version": "1.0.0",
+  "description": "Minimal Node.js app for Posit Connect: landing page, runtime info and health check",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=24.11.0 <25"
+  }
+}
